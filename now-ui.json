@@ -1,0 +1,14 @@
+{
+	"components": {
+	    "cdltd-now-experience-dashboard": {
+			"uiBuilder": {
+                "associatedTypes": ["global.core"],
+                "label": "Now Task Dashboard",
+                "icon": "chart-forecast-fill",
+                "description": "A task dashboard component"
+            },
+	        "innerComponents": []
+	    }
+	},
+	"scopeName": "x_cdltd_now_expe_0"
+}
